@@ -5,7 +5,7 @@ Instead using power laws log(x**y) = y*log(x), calculating the 2nd term is very
 fast and useable in order to compare the nummbers.
 """
 
-file = "p099_base_exp.txt"
+file = "data/p099_base_exp.txt"
 
 
 index = 1
